@@ -1,0 +1,25 @@
+body{
+    font-family: 'Fjalla One', sans-serif;
+    font-family: 'Oswald', sans-serif;
+    margin: 0%;
+}
+.back-photo{
+    background-image: url(images/donation14.webp);
+    background-repeat: no-repeat;
+    background-size: 100%;
+}
+.first-section{
+    color: rgb(8, 221, 18);
+    text-align: center;
+    padding: 120px 0 280px 0;
+}
+.timeline{
+    font-size: 70px;
+}
+.donet-link{
+    padding: 5px 15px;
+    background-color: rgb(255, 0, 140);
+    border-radius: 10px;
+    text-decoration: none;
+    font-weight: 900;
+}
