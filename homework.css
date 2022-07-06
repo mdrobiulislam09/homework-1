@@ -9,17 +9,59 @@ body{
     background-size: 100%;
 }
 .first-section{
-    color: rgb(8, 221, 18);
+    color: rgb(206, 138, 36);
     text-align: center;
-    padding: 120px 0 280px 0;
+    padding: 50px 0 280px 0;
 }
 .timeline{
     font-size: 70px;
 }
 .donet-link{
     padding: 5px 15px;
-    background-color: rgb(255, 0, 140);
+    background-color: rgb(19, 212, 84);
     border-radius: 10px;
     text-decoration: none;
     font-weight: 900;
+}
+.second-section{
+    text-align: center;
+}
+.donet-ammount{
+    
+}
+.flex{
+    display: flex;
+}
+.amount{
+    background-color: beige;
+    padding: 65px;
+    margin:2% 9% 2% 0;
+    border-radius: 5px;
+}
+#mark-amount{
+    border: 2px solid red;
+    background-color: rgb(230, 193, 193);
+}
+.flex2{
+    display: flex;
+}
+.our-donet{
+    text-align: center;
+    padding-top: 50px;
+    padding-bottom: 30px;
+}
+.donet-catagory{
+    
+    margin: 5px;
+    padding: 15px;
+    border-radius: 5px;
+}
+#food{
+    background-color: azure;
+}
+#shelter{
+    background-color: antiquewhite;
+}
+#education{
+    background-color: burlywood;
 }
