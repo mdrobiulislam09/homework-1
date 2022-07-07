@@ -9,7 +9,7 @@ body{
     background-size: 100%;
 }
 .first-section{
-    color: rgb(206, 138, 36);
+    color: rgb(38, 4, 70);
     text-align: center;
     padding: 50px 0 280px 0;
 }
@@ -18,16 +18,13 @@ body{
 }
 .donet-link{
     padding: 5px 15px;
-    background-color: rgb(19, 212, 84);
+    background-color: indianred;
     border-radius: 10px;
     text-decoration: none;
     font-weight: 900;
 }
 .second-section{
     text-align: center;
-}
-.donet-ammount{
-    
 }
 .flex{
     display: flex;
@@ -51,7 +48,6 @@ body{
     padding-bottom: 30px;
 }
 .donet-catagory{
-    
     margin: 10px;
     padding: 15px;
     border-radius: 5px;
@@ -87,7 +83,6 @@ body{
 .button{
     text-align: center;
     margin: 50px;
-    
 }
 #email{
     background-color: aliceblue;
