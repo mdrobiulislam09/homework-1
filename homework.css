@@ -35,7 +35,7 @@ body{
 .amount{
     background-color: beige;
     padding: 65px;
-    margin:2% 9% 2% 0;
+    margin:2% 8% 2% 0;
     border-radius: 5px;
 }
 #mark-amount{
@@ -52,7 +52,7 @@ body{
 }
 .donet-catagory{
     
-    margin: 5px;
+    margin: 10px;
     padding: 15px;
     border-radius: 5px;
 }
@@ -64,4 +64,48 @@ body{
 }
 #education{
     background-color: burlywood;
+}
+.your-donation{
+    display: flex;
+    margin-top: 100px;
+}
+.optional{
+    width: 50%;
+    padding: 20px;
+}
+.optional img{
+    width: 100%;
+    border-radius: 5px;
+}
+.contribute{
+    color: aliceblue;
+    background-color: indianred;
+    text-decoration: none;
+    padding: 10px;
+    border-radius: 5px;
+}
+.button{
+    text-align: center;
+    margin: 50px;
+    
+}
+#email{
+    background-color: aliceblue;
+    padding: 5px 150px 5px 10px;
+}
+#subscribe{
+    background-color: indianred;
+    padding: 5px 10px;
+}
+.footer{
+    text-align: center;
+    background-color: black;
+    padding: 15px 0;
+}
+.footer h2{
+    color: brown;
+    font-style: oblique;
+}
+.footer p{
+    color: aliceblue;
 }
